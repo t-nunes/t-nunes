@@ -11,8 +11,8 @@ Here I share information about myself, my work, and my projects.
 
 ## Professional Experience
 
-### Tecimob (Current)
-I currently work at **Tecimob**, a company in the real estate sector.  
+### Tecimob (2012 – Current)
+I have been working at **Tecimob** since its foundation in 2012, a company in the real estate sector.  
 Main responsibilities:
 - Building and maintaining the **main app** of the platform
 - Contributing to the **website builder**, a legacy project that started years ago
@@ -49,6 +49,5 @@ Main responsibilities:
 ![WebSockets](https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ## Contact
-- **GitHub:** [github.com/t-nunes](https://github.com/t-nunes)
 - **LinkedIn:** [linkedin.com/in/nunes-thiago/](https://www.linkedin.com/in/nunes-thiago/)
 - **Email:** thiagonunes.web91@gmail.com  
